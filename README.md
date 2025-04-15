@@ -1,10 +1,10 @@
 # WaiterAI
+Video Link: https://www.youtube.com/watch?v=p5jnEeZAw8s
 
 ![image](https://github.com/user-attachments/assets/f1c9a5af-9afd-4e2a-b6a6-64d41b6b38f2)
 
-Application Link: https://www.youtube.com/watch?v=p5jnEeZAw8s
 
-Waiter AI is a personalized dining assistant designed to streamline the ordering process for diners facing menu overwhelm, dietary restrictions, or indecision. The service allows users to upload an image of a restaurant menu, input their dietary preferences, and receive tailored dish recommendations within a minute, eliminating the burdensome aspects of choosing what to eat. The case study of a user named Cam illustrates the app’s effectiveness; as a newcomer to New York City, he struggles to stick to his diet amid diverse dining options. By utilizing Waiter AI, Cam found personalized meal suggestions that catered to his dietary needs without the extensive time spent navigating menus.
+Waiter AI is a personalized dining assistant designed to use GEN AI to streamline the ordering process for diners facing menu overwhelm, dietary restrictions, or indecision. The service allows users to upload an image of a restaurant menu, input their dietary preferences, and receive tailored dish recommendations within a minute, eliminating the burdensome aspects of choosing what to eat. The case study of a user named Cam illustrates the app’s effectiveness; as a newcomer to New York City, he struggles to stick to his diet amid diverse dining options. By utilizing Waiter AI, Cam found personalized meal suggestions that catered to his dietary needs without the extensive time spent navigating menus.
 
 Unlike its competitors, which generally require menu scanning and provide generic suggestions, Waiter AI offers near real-time, dynamic recommendations, expediting the ordering process.
 
